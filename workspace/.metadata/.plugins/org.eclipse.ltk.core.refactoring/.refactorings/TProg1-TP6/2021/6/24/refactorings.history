@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;ModeloParcial/src&apos;&#x0D;&#x0A;- Original project: &apos;TProg1-TP6&apos;&#x0D;&#x0A;- Destination element: &apos;ModeloParcial/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     TProg1-TP6/src/ar.edu.ort.tp1.tdas.implementaciones&#x0D;&#x0A;     TProg1-TP6/src/ar.edu.ort.tp1.tdas.interfaces" description="Copy packages" destination="=ModeloParcial/src" element1="/src&lt;ar.edu.ort.tp1.tdas.implementaciones" element2="/src&lt;ar.edu.ort.tp1.tdas.interfaces" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1623366631718" version="1.0"/>
+</session>

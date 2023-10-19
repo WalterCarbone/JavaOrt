@@ -1,0 +1,8 @@
+package tp4_ejercicio4_drsueno;
+
+public enum Resultado {
+TURNO_CONFIRMADO,
+NO_HAY_MAS_TURNOS_DISPONIBLES,
+PACIENTE_PREVIAMENTE_CON_TURNO,
+TURNO_NO_ENCONTRADO;	
+}

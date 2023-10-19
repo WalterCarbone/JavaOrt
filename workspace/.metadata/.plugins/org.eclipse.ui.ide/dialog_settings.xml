@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\Walter\Desktop\TP1_Final_Supermercado_RESUELTO.zip"/>
+			<item value="C:\Users\Walter\Desktop\TP1_Final_Supermercado_INCOMPLETO.zip"/>
+			<item value="C:\Users\Walter\Desktop\TP1-Final_MusicPlayer v1-Completo.zip"/>
+			<item value="C:\Users\Walter\Desktop\TP1_Final_MusicPlayerACompletar.zip"/>
+			<item value="C:\Users\Walter\Downloads\TPROG1_2021C1_P2_OrtMarket3_Incompleto.zip"/>
+			<item value="C:\Users\Walter\Desktop\tdas.jar"/>
+			<item value="C:\Users\Walter\Desktop\TP1_Final_CentroBuceo.zip"/>
+			<item value="C:\Users\Walter\Desktop\TP1_Final_CentroBuceo_RESUELTOv3.zip"/>
+			<item value="C:\Users\Walter\Desktop\TallerDeAutosV3_completo.zip"/>
+			<item value="C:\Users\Walter\Desktop\TallerDeAutosV3.zip"/>
+			<item value="C:\Users\Walter\Downloads\TP6(1).zip"/>
+			<item value="C:\Users\Walter\Downloads\TP5.zip"/>
+			<item value="C:\Users\Walter\Downloads\2020C2_TP1_TP4_EXCEPCIONES_COMPLETO.zip"/>
+			<item value="C:\Users\Walter\Downloads\TProg1-TP6-incompleto.zip"/>
+			<item value="C:\Users\Walter\Downloads\Ejercicio4Tp5.zip"/>
+			<item value="C:\Users\Walter\Documents\ORT\1.2-Taller de Programacion 1\2020C2_TP1_TP4_EXCEPCIONES.zip"/>
+			<item value="C:\Users\Walter\Downloads\TP1-2021-C1-Parcial1-T1-ApellidoNombre.zip"/>
+			<item value="C:\Users\Walter\Downloads\ORT-TP1-sim-p1-2021c1-Veterinaria Completo v2.zip"/>
+			<item value="C:\Users\Walter\Downloads\TProg1-TP3-Resuelto.zip"/>
+			<item value="C:\Users\Walter\Desktop\ORT-TP1-sim-p1-2021c1-Veterinaria Incompleto v2.zip"/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="658" key="DIALOG_X_ORIGIN"/>
+		<item value="341" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="668" key="DIALOG_X_ORIGIN"/>
+			<item value="195" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="584" key="DIALOG_HEIGHT"/>
+		<item value="706" key="DIALOG_X_ORIGIN"/>
+		<item value="139" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/TPROG1_2021C1_P2_OrtMarket_Incompleto/src/ar/edu/ort/tp1/ortmarket/test/Test.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ar.edu.ort.tp1.ortmarket.test.Test"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="TPROG1_2021C1_P2_OrtMarket_Incompleto"/>
+</launchConfiguration>

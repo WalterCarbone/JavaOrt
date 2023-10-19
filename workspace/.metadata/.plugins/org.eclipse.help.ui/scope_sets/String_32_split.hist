@@ -1,0 +1,4 @@
+#Thu Mar 25 22:31:36 ART 2021
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=String split

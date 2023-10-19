@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;2020C2_TP1_TP4_EXCEPCIONES&apos; to &apos;2020C2_TP1_TP4_EXCEPCIONES_MIO&apos;&#x0D;&#x0A;- Original element: &apos;2020C2_TP1_TP4_EXCEPCIONES&apos;&#x0D;&#x0A;- Renamed element: &apos;2020C2_TP1_TP4_EXCEPCIONES&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;2020C2_TP1_TP4_EXCEPCIONES&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=2020C2_TP1_TP4_EXCEPCIONES" name="2020C2_TP1_TP4_EXCEPCIONES_MIO" references="true" stamp="1623457091974" version="1.0"/>
+</session>
